@@ -3,7 +3,7 @@
 
 #### Simple CLI program to parse filenames in the folder and moving them to target directory. Written in rust.
 --
-Usage:\n
+## Usage:
 ```bash
 cargo build --release
 cd target/release
